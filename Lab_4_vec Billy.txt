@@ -1,0 +1,32 @@
+/***
+ * CSE 2010 Fall 2023
+ * Lab #{4}
+ * {Billy Wilson} #{006815673}
+ * {Date}
+ *
+ * {ill be sorting multiple values using both the vector method and array.}
+ *
+ * {One problem im having is the parenthesis on another file. the program keeps closing out when i run it so i cant see if i got it right.}
+ *
+***/
+
+#include <iostream>
+#include "ArrayVec.h"
+#include "DisplayVec.h"
+using namespace std;
+
+
+
+int main()
+{
+    // initialize vec
+
+    //initialize ArrayVec and DisplayVec
+
+
+    // populate with values
+
+    // display contents
+
+}
+
